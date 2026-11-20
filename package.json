@@ -35,7 +35,7 @@
     "doctor": "tsx scripts/doctor.ts"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.111.0",
+    "@anthropic-ai/sdk": "^1.9.0",
     "next": "14.2.5",
     "react": "^19.2.7",
     "react-dom": "^18.3.1",
